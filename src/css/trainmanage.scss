@@ -1,0 +1,63 @@
+@import "../css/common";
+.headerAll{
+  height: 44px;
+  background-color: #4eabe8;
+  h2{
+    color:#fff;
+    font-size: 16px;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    font-weight: bold;
+  }
+}
+.train-selfAll{
+  padding: 10px;
+  margin-bottom: 20px;
+  height: 150px;
+}
+.train-detailAll{
+  width: 100%;
+  height: auto;
+  .trainDetailList1{
+    width: 100%;
+    height: 150px;
+  }
+.trainDetailList1 li{
+  font-size: 15px;
+  font-weight: 600;
+  color: #4eabe8;
+  line-height: 35px;
+  span{
+    color: #252525;
+    font-weight: normal;
+  }
+}
+}
+.train-editAll{
+  height: 30px;
+  h2{
+    font-size: 18px;
+    display: inline-block;
+  }
+}
+.editImg{
+  float: right;
+  img{
+    width: 25px;
+    height: 25px;
+    padding-right: 10px;
+    float: right;
+  }
+}
+.listSaveAll1{
+  width: 90%;
+  height: 40px;
+  margin: 20px auto;
+  background-color: #4eabe8;
+  text-align: center;
+  line-height: 40px;
+  font-size: 18px;
+  color: #fff;
+  border-radius: 10px;
+}

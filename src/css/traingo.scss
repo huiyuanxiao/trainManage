@@ -1,0 +1,44 @@
+@import "../css/common";
+.header{
+  height: 44px;
+  background-color: #4eabe8;
+  h2{
+    color:#fff;
+    font-size: 16px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    font-weight: bold;
+  }
+}
+.traingo{
+  margin-top: 10px;
+  padding: 10px;
+  .item{
+    width: 100%;
+    line-height: 44px;
+    font-size:15px;
+    color:#000000;
+    text-align:left;
+    span{
+      display: inline-block;
+    }
+    input{
+      display: inline-block;
+      line-height: 44px;
+      margin-left: 10px;
+      padding-left: 10px;
+    }
+  }
+}
+#trainGoSave{
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px 0;
+  background-color: #4eabe8;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: bold;
+}
